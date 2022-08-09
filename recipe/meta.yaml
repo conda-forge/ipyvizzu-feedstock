@@ -34,10 +34,10 @@ test:
 
 about:
   home: https://github.com/vizzuhq/ipyvizzu
-  summary: ipyvizzu is the Jupyter Notebook integration of Vizzu.
+  summary: Build animated charts in Jupyter notebook with a simple Python synthax.
   license: Apache-2.0
   license_file:
-    - LICENSE
+    - LICENSE  # it is located in the pypi source
   description: |
     ipyvizzu is the Jupyter Notebook integration of Vizzu.
 
