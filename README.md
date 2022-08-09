@@ -7,7 +7,7 @@ Package license: Apache-2.0
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-feedstock/blob/main/LICENSE.txt)
 
-Summary: ipyvizzu is the Jupyter Notebook integration of Vizzu.
+Summary: Build animated charts in Jupyter notebook with a simple Python synthax.
 
 Development: https://github.com/vizzuhq/ipyvizzu
 
