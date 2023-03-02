@@ -1,11 +1,11 @@
-About ipyvizzu
-==============
+About ipyvizzu-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/vizzuhq/ipyvizzu
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-feedstock/blob/main/LICENSE.txt)
 
 Summary: ipyvizzu is the Jupyter Notebook integration of Vizzu.
 
