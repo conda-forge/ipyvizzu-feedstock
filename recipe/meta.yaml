@@ -1,5 +1,5 @@
 {% set name = "ipyvizzu" %}
-{% set version = "0.14.0" %}
+{% set version = "0.15.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/ipyvizzu-{{ version }}.tar.gz
-  sha256: b11ee9f8bb37cd8aaeff278e52ea62fb823102fcca52c281a7503cfc07c0a3f3
+  sha256: 5ac5619ead6ee6b44b5c8ea37a1de1f14737a3a716557fbcf1c74cb573071b5b
 
 build:
   number: 0
