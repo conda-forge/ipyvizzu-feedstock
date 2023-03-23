@@ -3,21 +3,21 @@ About ipyvizzu-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/ipyvizzu-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/vizzuhq/ipyvizzu
+Home: https://ipyvizzu.vizzuhq.com
 
 Package license: Apache-2.0
 
-Summary: ipyvizzu is the Jupyter Notebook integration of Vizzu.
+Summary: Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.
 
 Development: https://github.com/vizzuhq/ipyvizzu
 
-Documentation: https://ipyvizzu.vizzuhq.com/
+Documentation: https://ipyvizzu.vizzuhq.com
 
-ipyvizzu is the Jupyter Notebook integration of Vizzu.
+Build animated charts in Jupyter Notebook and similar environments with a simple Python syntax.
 
-[![gif][_gif]](https://github.com/vizzuhq/ipyvizzu)
+[![gif][_gif]](https://ipyvizzu.vizzuhq.com)
 
-[_gif]: https://github.com/vizzuhq/ipyvizzu/raw/main/docs/assets/ipyvizzu-promo.gif
+[_gif]: https://ipyvizzu.vizzuhq.com/latest/assets/ipyvizzu-promo.gif
 
 PyPI: [https://badge.fury.io/py/ipyvizzu](https://badge.fury.io/py/ipyvizzu)
 
