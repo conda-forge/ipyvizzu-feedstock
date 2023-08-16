@@ -11,17 +11,17 @@ source:
 
 build:
   number: 0
-  noarch: python
   script: {{ PYTHON }} -m pip install . -vv
+  min_python: 3.6
 
 requirements:
   host:
-    - python >=3.6
+    - python
     - pip
     - pdm-backend
   run:
-    - python >=3.6
-    - typing_extensions
+    - python
+    - typing_extensions  # [py<38]
     - ipython
     - jsonschema
 
