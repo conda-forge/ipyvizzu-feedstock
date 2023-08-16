@@ -18,7 +18,7 @@ requirements:
   host:
     - python >=3.6
     - pip
-    - pdm
+    - pdm-backend
   run:
     - python >=3.6
     - typing_extensions  # [py<38]
